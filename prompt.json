@@ -1,0 +1,10 @@
+{
+  "model": "mistral",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Generate a JSON schema for Customer 360 use case: Early Detection of High-Risk Yet Valuable Customers for Proactive Retention and Upsell"
+    }
+  ],
+  "stream": false
+}

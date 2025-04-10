@@ -1,0 +1,16 @@
+source_system,source_field,description
+CRM,cust_id,Unique customer identifier
+CoreBanking,acct_balance,Account balance as of last statement
+Analytics,churn_score,Predicted churn score (0-1)
+CRM,email,Customer email address
+CRM,phone,Customer mobile number
+Engagement,email_opens,Number of emails opened in last 30 days
+Engagement,website_visits,Number of website visits in last 30 days
+CoreBanking,monthly_txn,Monthly transaction count
+CoreBanking,last_login,Date of last online banking login
+CreditBureau,credit_score,Current credit score
+CreditBureau,delinquencies,Total number of past delinquencies
+CreditBureau,loan_utilization,Ratio of active loan usage
+BranchSystem,customer_since,Date when account was opened
+BranchSystem,branch_id,ID of customer’s home branch
+SupportSystem,tickets_opened,Support tickets raised in last 90 days
